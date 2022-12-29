@@ -7,5 +7,5 @@
 // compile as
 // gcc -lstdc++ -std=c++11 -pthread t.cpp -o t
 
-published first on twitter:
+Published first on Twitter:
 https://twitter.com/Kemal_Akcam/status/1408512334725779466
